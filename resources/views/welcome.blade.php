@@ -36,7 +36,7 @@
         <div class="w-full container mx-auto">
             <div class="w-full flex items-center justify-between">
                 <span
-                    class=" flex items-center  font-bold text-2xl lg:text-4xl text-slate-100">SMP AL MUSYAFFA</span>
+                    class="flex items-center font-bold text-2xl lg:text-4xl text-white">PSB | SMP AL MUSYAFFA</span>
 
                 <div class="flex w-1/2 justify-end content-center">
                     <img src="{{ asset('images/logoalfa2.png') }}" alt="logo" class="w-24 hover:scale-105 duration-700">
