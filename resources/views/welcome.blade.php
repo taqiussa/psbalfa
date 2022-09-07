@@ -30,13 +30,13 @@
 
 </head>
 
-<body class="leading-normal tracking-normal text-indigo-400 m-6 bg-gradient-to-t from-yellow-500 via-slate-100 to-green-600">
+<body class="leading-normal tracking-normal text-indigo-400 m-6 bg-gradient-to-t from-slate-100 to-green-600">
     <div class="h-screen">
         <!--Nav-->
         <div class="w-full container mx-auto">
             <div class="w-full flex items-center justify-between">
                 <span
-                    class=" flex items-center  font-bold text-2xl lg:text-4xl bg-clip-text text-transparent bg-gradient-to-r from-slate-100 to-yellow-400">SMP AL MUSYAFFA</span>
+                    class=" flex items-center  font-bold text-2xl lg:text-4xl bg-clip-text text-transparent bg-gradient-to-r from-teal-400 via-green-200 to-teal-700">SMP AL MUSYAFFA</span>
 
                 <div class="flex w-1/2 justify-end content-center">
                     <img src="{{ asset('images/logoalfa2.png') }}" alt="logo" class="w-24 hover:scale-105 duration-700">
