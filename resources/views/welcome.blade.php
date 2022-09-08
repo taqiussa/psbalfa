@@ -22,13 +22,13 @@
 
 </head>
 
-<body class="m-6 leading-normal tracking-normal text-indigo-400 bg-gradient-to-t from-slate-100 to-green-600">
+<body class="m-3 leading-normal tracking-normal text-indigo-400 bg-gradient-to-t from-slate-100 to-green-600" style="background-image: url('{{ asset('images/wave.svg') }}'); background-repeat:no-repeat;">
     <div class="min-h-screen ">
         <!--Nav-->
         <div class="container w-full mx-auto">
             <div class="flex items-center justify-between w-full">
                 <a
-                    class="flex items-center text-2xl font-bold text-white">PSB | SMP AL MUSYAFFA</a>
+                    class="flex items-center text-2xl font-bold text-teal-300">PSB | SMP AL MUSYAFFA</a>
 
                 <div class="flex content-center justify-end w-1/2">
                     <img src="{{ asset('images/logoalfa2.png') }}" alt="logo" class="w-24 duration-700 hover:scale-105">
@@ -53,7 +53,7 @@
             <!--Right Col-->
             <div class="w-full p-12 overflow-hidden xl:w-3/5">
                 <img class="w-full mx-auto transition duration-700 ease-in-out transform md:w-4/5 hover:scale-105 hover:rotate-6"
-                    src="{{ asset('images/educator.svg') }}" />
+                    src="{{ asset('images/educator2.svg') }}" />
             </div>
 
             <!--Footer-->
