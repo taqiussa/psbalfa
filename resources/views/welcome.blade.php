@@ -87,12 +87,13 @@
         <div class="wave"></div>
         <div class="wave"></div>
     </div>
-    <div class="min-h-screen">
+    <div class="relative">
         <!--Nav-->
         <div class="container w-full mx-auto">
             <div class="flex items-center justify-between w-full">
                 <div class="flex items-center m-3 text-2xl font-bold text-teal-300">
-                    <img src="{{ asset('images/logopsb.png') }}" alt="logopsb" class="transition duration-700 w-36 hover:scale-105">
+                    <img src="{{ asset('images/logopsb.png') }}" alt="logopsb"
+                        class="transition duration-700 w-36 hover:scale-105">
                 </div>
 
                 <div class="flex content-center justify-end w-1/2">
@@ -122,12 +123,11 @@
                 <img class="w-full mx-auto transition duration-700 ease-in-out transform md:w-4/5 hover:scale-105 "
                     src="{{ asset('images/educator2.svg') }}" />
             </div>
-
             <!--Footer-->
             <div class="w-full pt-2 text-sm text-center md:text-left fade-in">
-                <span class="text-teal-700">&copy; SMP Al Musyaffa 2022 | Taqius SA,S.Kom | Kendali Koding 2022</span>
-                -
+                <span class="text-teal-400">&copy; SMP Al Musyaffa 2022 | Taqius SA,S.Kom | Kendali Koding 2022</span>
             </div>
+
         </div>
     </div>
 </body>
