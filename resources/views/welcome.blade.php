@@ -121,7 +121,7 @@
             <!--Right Col-->
             <div class="w-full p-12 overflow-hidden xl:w-3/5">
                 <img class="w-full mx-auto transition duration-700 ease-in-out transform md:w-4/5 hover:scale-105 "
-                    src="{{ asset('images/bareng.png') }}" />
+                    src="{{ asset('images/fotopsb.png') }}" />
             </div>
             <!--Footer-->
             <div class="w-full pt-2 text-sm text-center md:text-left fade-in">
